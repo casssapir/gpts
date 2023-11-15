@@ -4,9 +4,9 @@ Each file has the actual Instructions, Knowledge, and Actions used.
 
 To use these, just create a new GPT at https://chat.openai.com/gpts/discovery, copy the block of text and/or files into the Instructions, Knowledge and Actions sections.
 
-General Structure
-You can write your own. This is the general pattern to follow.
+You can also create your own. This is the general pattern to follow for Instructions.
 
+```
 # Mission
 - Outcome or goal
 - Not procedure
@@ -33,3 +33,4 @@ You can write your own. This is the general pattern to follow.
 
 # Example Output
 - Simple demonstration
+```
